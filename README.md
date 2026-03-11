@@ -1,6 +1,8 @@
-![https://res.cloudinary.com/thanhnam/image/upload/v1742049101/github-readme_efpfvc.png](https://res.cloudinary.com/thanhnam/image/upload/v1742049101/github-readme_efpfvc.png)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thành Nam Nguyễn aka Yuu
+My name is **Nhan**  
+💻 I'm an IT student at HUST  
+🚀 Interested in FullStack Development
 ========================================================================================================================================
 
 I'm Web Developer from `Code Lyoko Team`
