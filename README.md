@@ -26,11 +26,9 @@ I enjoy building projects to improve my skills and steadily grow as a developer.
 ![](https://nirzak-streak-stats.vercel.app/?user=Nhan-DH&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nhan-DH&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-Thanks for stopping by, and I look forward to connecting with you soon!
 
-### Support Me
 
-<a href="https://www.buymeacoffee.com/thanhnamnguyen"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
+
 
 ### Dev Quote
 
