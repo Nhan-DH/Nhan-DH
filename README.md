@@ -9,8 +9,8 @@ My name is **Nhan**
 
 
 * 👨‍🎓  Studied at HaNoi University of Science and Technology (HUST)
-* 🖥️  See my portfolio website at [nhandona.dev](https://www.thanhnamnguyen.dev/)
-* ✉️  You can contact me via [hongnhan474747@gmail.com](mailto:namnguyenthanh.work@gmail.com)
+* 🖥️  See my portfolio website at [nhandona.dev](https://www./)
+* ✉️  You can contact me via [hongnhan474747@gmail.com](mailto:hongnhan474747@gmail.com)
 
 ### Skills
 
